@@ -122,7 +122,7 @@ with st.sidebar:
         1. Albertus Adrian<br>
         2. Jonathan Raffael<br>
         3. Steven Hosea<br>
-        <span style="font-size:14px;">by binus university student</span>
+        <span style="font-size:14px;">BINUS university students</span>
     </div>
     """, unsafe_allow_html=True)
 
